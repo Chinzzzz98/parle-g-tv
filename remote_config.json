@@ -1,0 +1,15 @@
+{
+  "versionCode": 11,
+  "versionName": "1.9",
+  "catalogVersion": 3,
+  "brandTitle": "Parle G",
+  "sidebarTagline": "G Mane Genius",
+  "dailyQuote": "Loko kahe chhe ke – Hasya tena ghar vasya! Parantu e kon jane chhe ke – Ghar vasya pachhi ketla hasya?",
+  "startupToast": "",
+  "promptId": "hasya-ghar-vasya-1",
+  "promptTitle": "Parle G",
+  "promptMessage": "Loko kahe chhe ke – Hasya tena ghar vasya!\nParantu e kon jane chhe ke – Ghar vasya pachhi ketla hasya?",
+  "updateNotice": "Loko kahe chhe ke – Hasya tena ghar vasya!\nParantu e kon jane chhe ke – Ghar vasya pachhi ketla hasya?",
+  "apkUrl": "https://raw.githubusercontent.com/Chinzzzz98/parle-g-tv/main/apks/ParleG.apk",
+  "extraChannels": []
+}
